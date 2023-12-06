@@ -1,5 +1,5 @@
 # Writing-Github-README
 
 ---
-<h6>*Italic*</h6>
+<h6>Italic</h6>
 
