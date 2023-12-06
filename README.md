@@ -1,5 +1,5 @@
 # Writing-Github-README
 
 ---
-####### Itali
+<small> Itali</small>
 
