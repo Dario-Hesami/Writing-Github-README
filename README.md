@@ -1,5 +1,5 @@
 # Writing-Github-README
 
 ---
-<h6>Italic</h6>
+<p style="font-size: 0.5 rem;">Italic</p>
 
